@@ -13,5 +13,5 @@ I am most excited to learn more about and practice software development within a
 ##### `ls -lah ./objectives/*`
 Specific learning objectives I'd like to tackle:
 - Becoming fluent in Typescript.
-- Creating and deploying IAC solutions across diverse systems.
+- Creating and deploying IAS solutions across diverse systems.
 - Mastering Docker, Podman, Orbstack, and other container software.
